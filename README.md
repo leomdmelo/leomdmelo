@@ -1,16 +1,34 @@
-### Hi there 👋
+# Oi Eu sou o Leonardo 
 
-<!--
-**leomdmelo/leomdmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <img alt="Esse sou eu Leonardo." src="https://avatars.githubusercontent.com/u/51963526?s=400&u=793503e19e85c20313350473f17b87e04c64ae0c&v=4">
+</picture>
 
-Here are some ideas to get you started:
+Meu nome é Leonardo trabalho com Dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Formação
+Sou formado em:
+- **Informática pra Internet** Pela Etec de Santa Isabel;
+- **Analise e Desenvolvimento de Sistemas** Pelo Centro Universitário Eniac.
+
+## Habilidades
+
+``` HTML ``` ``` CSS ``` ``` PHP ``` ``` MySql ``` ``` Sql ``` ``` JavaScript (Basico) ``` ``` Python (Basico) ```
+
+## Trabalho
+### Desenvolvimento Atual
+Atualmente trabalho no desenvolvimento do sistema de gerenciamento de uma empresa, então vai desde a área de vendas passando por estoque, suporte, gerenciamento de clientes até modulo de financeiro, A empresa em questão se chama **[KaPrinter](https://www.kaprinter.com.br/)** e o foco dela é o outsourcing de impressão.
+
+### Desenvolvimento Recente
+Pela mesma empresa já desenvolvi Uma solução de GED - Gestão Eletrônica de Documentos, o sistema foi criado para o **2º Tabelião de Notas e de Protestos de Mogi das Cruzes**. Hoje o sistema funciona de forma local no servidor interno do mesmo.
+
+## Entre em contato comigo
+Email: leonardomdmelo@gmail.com ou leonardomdmelo@hotmail.com
+
+Meu Site: **[WebSite](https://leomelo.netlify.app/)**
+
+Instagram: [@leomdmelo](https://www.instagram.com/leomdmelo/)
+
+Twitter: [@leomdmelo](https://twitter.com/leomdmelo)
+
+facebook: [Leonardo Melo](https://www.facebook.com/leonardomdmelo)
