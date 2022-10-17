@@ -1,9 +1,5 @@
 # Oi Eu sou o Leonardo 
 
-<picture>
-  <img alt="Esse sou eu Leonardo." src="https://avatars.githubusercontent.com/u/51963526?s=400&u=793503e19e85c20313350473f17b87e04c64ae0c&v=4">
-</picture>
-
 Meu nome é Leonardo trabalho com Dev.
 
 ## Formação
