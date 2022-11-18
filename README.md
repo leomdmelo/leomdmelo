@@ -1,6 +1,6 @@
 # Oi Eu sou o Leonardo 
 
-Meu nome é Leonardo trabalho com Dev.
+Meu nome é Leonardo trabalho com Desenvolvimento de Sistemas WEB.
 
 ## Formação
 Sou formado em:
