@@ -9,7 +9,7 @@ Sou formado em:
 
 ## Habilidades
 
-``` HTML ``` ``` CSS ``` ``` PHP ``` ``` MySql ``` ``` Sql ``` ``` JavaScript (Basico) ``` ``` Python (Basico) ```
+``` HTML ``` ``` CSS ``` ``` PHP ``` ``` MySql ``` ``` Sql ``` ``` JavaScript (Basico) ``` ``` Python (Basico) ``` ``` GitHub ```
 
 ## Trabalho
 ### Desenvolvimento Atual
