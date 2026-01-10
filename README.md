@@ -42,7 +42,7 @@ Sou desenvolvedor com forte atuação em **sistemas web empresariais**, focado e
 
 ### 🏢 Analista de Sistemas
 **KaPrinter**  
-📍 Mogi das Cruzes/SP | 🗓️ Jun/2020 – Atualmente  
+📍 Mogi das Cruzes/SP | 🗓️ 2020 – Atualmente  
 
 Atuação no desenvolvimento, manutenção e evolução de **sistemas corporativos** voltados para **outsourcing de impressão**, com foco em **automação de processos, eficiência operacional e redução de custos**.
 
@@ -72,6 +72,7 @@ Atuação no desenvolvimento, manutenção e evolução de **sistemas corporativ
 
 ### 📁 Sistema GED — Cartório
 **2º Tabelião de Notas e de Protestos de Mogi das Cruzes**
+📍 Mogi das Cruzes/SP | 🗓️ 2022
 
 Desenvolvimento de um **Sistema de Gestão Eletrônica de Documentos (GED)** personalizado para atender clientes com **alto volume documental**, centralizando todas as informações em um único ambiente seguro e organizado.
 
@@ -94,7 +95,7 @@ Desenvolvimento de um **Sistema de Gestão Eletrônica de Documentos (GED)** per
 
 ### 📊 Kaprinter Controle — Sistema de Monitoramento de Impressões
 **KaPrinter**  
-🗓️ Desde 2025 | 🚀 Em produção e em expansão  
+📍 Mogi das Cruzes/SP | 🗓️ 2025 – Atualmente   
 
 Sistema corporativo desenvolvido para **monitoramento, auditoria e análise do uso de impressoras**, oferecendo **controle total do consumo por colaboradores, setores e equipamentos**.
 
