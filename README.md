@@ -41,7 +41,7 @@ Sou desenvolvedor com forte atuação em **sistemas web empresariais**, focado e
 ## 💼 Experiência Profissional
 
 ### 🏢 Analista de Sistemas
-**KaPrinter**  
+**Kaprinter**  
 📍 Mogi das Cruzes/SP | 🗓️ 2020 – Atualmente  
 
 Atuação no desenvolvimento, manutenção e evolução de **sistemas corporativos** voltados para **outsourcing de impressão**, com foco em **automação de processos, eficiência operacional e redução de custos**.
@@ -67,7 +67,6 @@ Atuação no desenvolvimento, manutenção e evolução de **sistemas corporativ
 
 **Tecnologias:** HTML5, CSS3, JavaScript, PHP, MySQL (MySQLi), JSON
 
-
 ---
 
 ### 📁 Sistema GED — Cartório
@@ -90,11 +89,35 @@ Desenvolvimento de um **Sistema de Gestão Eletrônica de Documentos (GED)** per
 
 **Tecnologias:** HTML, CSS, JavaScript, PHP e SQL Server
 
+---
+
+### 🎨 Identidade Visual — Couty Construções
+**Couty Construções**  
+📍 Arujá/SP | 🗓️ 2022
+
+Desenvolvimento completo da **identidade visual da empresa**, com foco em **posicionamento de marca, padronização visual e reconhecimento institucional**.
+
+**Atividades realizadas:**
+- Criação da **logomarca** da empresa
+- Definição da **paleta de cores institucional**
+- Padronização visual para uso em diferentes mídias
+
+**Aplicações do projeto:**
+- Documentos institucionais
+- Redes sociais corporativas
+- Placas de identificação de obras
+
+**Resultados:**
+- Fortalecimento da identidade da marca
+- Comunicação visual padronizada em todos os pontos de contato
+- Material visual reutilizado continuamente até hoje
+
+**Ferramentas:** Affinity Designer
 
 ---
 
 ### 📊 Kaprinter Controle — Sistema de Monitoramento de Impressões
-**KaPrinter**  
+**Kaprinter**  
 📍 Mogi das Cruzes/SP | 🗓️ 2025 – Atualmente   
 
 Sistema corporativo desenvolvido para **monitoramento, auditoria e análise do uso de impressoras**, oferecendo **controle total do consumo por colaboradores, setores e equipamentos**.
