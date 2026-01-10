@@ -2,7 +2,7 @@
 
 💻 **Analista e Desenvolvedor de Sistemas Web**  
 📍 Brasil  
-🚀 +4 anos de experiência em desenvolvimento de soluções corporativas e otimização de processos
+🚀 +5 anos de experiência em desenvolvimento de soluções corporativas e otimização de processos
 
 Sou desenvolvedor com forte atuação em **sistemas web empresariais**, focado em **automação, eficiência operacional e tomada de decisão baseada em dados**. Tenho experiência em projetos que geraram redução de custos, ganho de produtividade e maior controle gerencial.
 
@@ -38,37 +38,80 @@ Sou desenvolvedor com forte atuação em **sistemas web empresariais**, focado e
 
 ---
 
-## 📊 GitHub Stats
-
-![Leonardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=leomdmelo&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomdmelo&layout=compact)
-
----
-
 ## 💼 Experiência Profissional
 
-### 🏢 Analista de Sistemas — **KaPrinter**
+### 🏢 Analista de Sistemas
+**KaPrinter**  
 📍 Mogi das Cruzes/SP | 🗓️ Jun/2020 – Atualmente  
 
-Atuação no desenvolvimento e evolução de **sistemas de gestão empresarial** voltados para outsourcing de impressão.
+Atuação no desenvolvimento, manutenção e evolução de **sistemas corporativos** voltados para **outsourcing de impressão**, com foco em **automação de processos, eficiência operacional e redução de custos**.
 
-**Principais entregas e resultados:**
-- Redução de **50%** na necessidade de técnicos de campo com sistema de suporte técnico
-- Redução de **80%** no desperdício de suprimentos com sistema de cálculo inteligente
+**Principais responsabilidades e entregas:**
+- Desenvolvimento de sistema de **gestão de chamados**, permitindo organização, priorização e resolução remota de demandas
+- Implementação de **autoatendimento**, reduzindo em cerca de **78%** a necessidade de intervenção humana em chamados corretivos, configurações e substituições
+- Criação de sistema de **roteirização inteligente** para preventivas e entregas programadas
+- Desenvolvimento de sistema de **controle de volumetria**, baseado no consumo médio mensal dos clientes
+- Planejamento logístico com prazos maiores, reduzindo desperdício de materiais, combustível e retrabalho
+- Integração com o software **PrintWayy** para coleta diária de dados dos equipamentos (contadores e status)
+- Automação completa do processo de **cobrança**, reduzindo em **~80%** o tempo gasto no faturamento
+- Migração do sistema de boletos (remessa/retorno – Sicredi) para **API do Banco do Brasil**, eliminando **100%** da intervenção humana
+- Desenvolvimento de sistema de **controle de laboratório**, com registro de manutenções e identificação de equipamentos por etiquetas
+- Criação de relatórios financeiros em tempo real para apoio à diretoria
+- Implementação de análise de contratos para identificação de clientes não rentáveis
+
+**Impactos gerados:**
+- Redução de **50%** na necessidade de técnicos de campo
+- Redução de **80%** no desperdício de suprimentos
 - Otimização logística com redução de **60%** no tempo de entrega
 - Controle de estoque com **100% de rastreabilidade**
-- Relatórios financeiros em tempo real para apoio à diretoria
-- Análise de contratos para identificação de clientes não rentáveis
+
+**Tecnologias:** HTML5, CSS3, JavaScript, PHP, MySQL (MySQLi), JSON
+
+
+---
 
 ### 📁 Sistema GED — Cartório
 **2º Tabelião de Notas e de Protestos de Mogi das Cruzes**
 
-- Desenvolvimento de sistema GED personalizado
-- Tecnologias: HTML, CSS, JavaScript, PHP e SQL Server
+Desenvolvimento de um **Sistema de Gestão Eletrônica de Documentos (GED)** personalizado para atender clientes com **alto volume documental**, centralizando todas as informações em um único ambiente seguro e organizado.
 
-**Resultados:**
-- Redução de **90%+** no tempo de busca por documentos
-- Maior segurança e organização documental
+**O que foi desenvolvido:**
+- Centralização completa de documentos em repositório único
+- Sistema de cadastro e indexação de documentos
+- Mecanismo de **busca rápida e eficiente** por registros previamente cadastrados
+- Organização padronizada para facilitar auditorias e rotinas internas
+- Controle de acesso e segurança das informações
+
+**Resultados alcançados:**
+- Redução de **mais de 90%** no tempo de busca por documentos
+- Aumento significativo da segurança da informação
+- Melhoria na organização e no controle documental
+
+**Tecnologias:** HTML, CSS, JavaScript, PHP e SQL Server
+
+
+---
+
+### 📊 Kaprinter Controle — Sistema de Monitoramento de Impressões
+**KaPrinter**  
+🗓️ Desde 2025 | 🚀 Em produção e em expansão  
+
+Sistema corporativo desenvolvido para **monitoramento, auditoria e análise do uso de impressoras**, oferecendo **controle total do consumo por colaboradores, setores e equipamentos**.
+
+**Funcionalidades desenvolvidas:**
+- Monitoramento detalhado de impressões por usuário, setor e equipamento
+- Dashboard com métricas consolidadas dos últimos 30 dias
+- Relatórios gerenciais e rankings de consumo
+- Cálculo automático de impacto ambiental (árvores preservadas, consumo de água e emissão de CO₂)
+- Apoio à tomada de decisão estratégica e iniciativas ESG
+
+**Benefícios gerados:**
+- Maior transparência no uso de recursos
+- Redução de custos operacionais
+- Conscientização ambiental dentro da empresa
+- Base de dados confiável para decisões gerenciais
+
+**Tecnologias:** HTML, CSS, JavaScript, PHP, SQL Server e MySQL
 
 ---
 
