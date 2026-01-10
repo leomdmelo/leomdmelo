@@ -65,7 +65,7 @@ Atuação no desenvolvimento, manutenção e evolução de **sistemas corporativ
 - Otimização logística com redução de **60%** no tempo de entrega
 - Controle de estoque com **100% de rastreabilidade**
 
-**Tecnologias:** HTML5, CSS3, JavaScript, PHP, MySQL (MySQLi), JSON
+**Tecnologias:** HTML5, CSS3, Bootstrap, JavaScript, PHP, MySQL (MySQLi), JSON
 
 ---
 
@@ -87,7 +87,7 @@ Desenvolvimento de um **Sistema de Gestão Eletrônica de Documentos (GED)** per
 - Aumento significativo da segurança da informação
 - Melhoria na organização e no controle documental
 
-**Tecnologias:** HTML, CSS, JavaScript, PHP e SQL Server
+**Tecnologias:** HTML5, CSS3, Bootstrap, JavaScript, PHP e SQL Server
 
 ---
 
@@ -135,7 +135,7 @@ Sistema corporativo desenvolvido para **monitoramento, auditoria e análise do u
 - Conscientização ambiental dentro da empresa
 - Base de dados confiável para decisões gerenciais
 
-**Tecnologias:** HTML, CSS, JavaScript, PHP, SQL Server e MySQL
+**Tecnologias:** HTML5, CSS3, Bootstrap, JavaScript, PHP, SQL Server e MySQL
 
 ---
 
