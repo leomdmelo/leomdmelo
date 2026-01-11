@@ -40,7 +40,7 @@ Sou desenvolvedor com forte atuação em **sistemas web empresariais**, focado e
 
 ## 💼 Experiência Profissional
 
-### 🏢 Analista de Sistemas
+### 🏢 sistema de gestão erp Kaprinter
 **Kaprinter**  
 📍 Mogi das Cruzes/SP | 🗓️ 2020 – Atualmente  
 
