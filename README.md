@@ -23,9 +23,9 @@ Sou desenvolvedor com forte atuação em **sistemas web empresariais**, focado e
 ### Linguagens & Tecnologias
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-Básico-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,7 +46,7 @@ Sou desenvolvedor com forte atuação em **sistemas web empresariais**, focado e
 
 Atuação no desenvolvimento, manutenção e evolução de **sistemas corporativos** voltados para **outsourcing de impressão**, com foco em **automação de processos, eficiência operacional e redução de custos**.
 
-**Principais responsabilidades e entregas:**
+**Principais atividades:**
 - Desenvolvimento de sistema de **gestão de chamados**, permitindo organização, priorização e resolução remota de demandas
 - Implementação de **autoatendimento**, reduzindo em cerca de **78%** a necessidade de intervenção humana em chamados corretivos, configurações e substituições
 - Criação de sistema de **roteirização inteligente** para preventivas e entregas programadas
@@ -59,13 +59,13 @@ Atuação no desenvolvimento, manutenção e evolução de **sistemas corporativ
 - Criação de relatórios financeiros em tempo real para apoio à diretoria
 - Implementação de análise de contratos para identificação de clientes não rentáveis
 
-**Impactos gerados:**
+**Resultados:**
 - Redução de **50%** na necessidade de técnicos de campo
 - Redução de **80%** no desperdício de suprimentos
 - Otimização logística com redução de **60%** no tempo de entrega
 - Controle de estoque com **100% de rastreabilidade**
 
-**Tecnologias:** HTML5, CSS3, Bootstrap, JavaScript, PHP, MySQL (MySQLi), JSON
+**Tecnologias:** HTML5, CSS3, Bootstrap, JavaScript, PHP, MySQL (MySQLi), JSON, Python, .NET
 
 ---
 
@@ -75,14 +75,14 @@ Atuação no desenvolvimento, manutenção e evolução de **sistemas corporativ
 
 Desenvolvimento de um **Sistema de Gestão Eletrônica de Documentos (GED)** personalizado para atender clientes com **alto volume documental**, centralizando todas as informações em um único ambiente seguro e organizado.
 
-**O que foi desenvolvido:**
+**Funcionalidades desenvolvidas:**
 - Centralização completa de documentos em repositório único
 - Sistema de cadastro e indexação de documentos
 - Mecanismo de **busca rápida e eficiente** por registros previamente cadastrados
 - Organização padronizada para facilitar auditorias e rotinas internas
 - Controle de acesso e segurança das informações
 
-**Resultados alcançados:**
+**Resultados:**
 - Redução de **mais de 90%** no tempo de busca por documentos
 - Aumento significativo da segurança da informação
 - Melhoria na organização e no controle documental
@@ -97,7 +97,7 @@ Desenvolvimento de um **Sistema de Gestão Eletrônica de Documentos (GED)** per
 
 Desenvolvimento completo da **identidade visual da empresa**, com foco em **posicionamento de marca, padronização visual e reconhecimento institucional**.
 
-**Atividades realizadas:**
+**Principais atividades:**
 - Criação da **logomarca** da empresa
 - Definição da **paleta de cores institucional**
 - Padronização visual para uso em diferentes mídias
@@ -129,7 +129,7 @@ Sistema corporativo desenvolvido para **monitoramento, auditoria e análise do u
 - Cálculo automático de impacto ambiental (árvores preservadas, consumo de água e emissão de CO₂)
 - Apoio à tomada de decisão estratégica e iniciativas ESG
 
-**Benefícios gerados:**
+**Resultados:**
 - Maior transparência no uso de recursos
 - Redução de custos operacionais
 - Conscientização ambiental dentro da empresa
