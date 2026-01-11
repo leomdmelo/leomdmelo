@@ -46,7 +46,7 @@ Sou desenvolvedor com forte atuação em **sistemas web empresariais**, focado e
 
 Atuação no desenvolvimento, manutenção e evolução de **sistemas corporativos** voltados para **outsourcing de impressão**, com foco em **automação de processos, eficiência operacional e redução de custos**.
 
-**Principais atividades:**
+**Funcionalidades desenvolvidas:**
 - Desenvolvimento de sistema de **gestão de chamados**, permitindo organização, priorização e resolução remota de demandas
 - Implementação de **autoatendimento**, reduzindo em cerca de **78%** a necessidade de intervenção humana em chamados corretivos, configurações e substituições
 - Criação de sistema de **roteirização inteligente** para preventivas e entregas programadas
@@ -97,7 +97,7 @@ Desenvolvimento de um **Sistema de Gestão Eletrônica de Documentos (GED)** per
 
 Desenvolvimento completo da **identidade visual da empresa**, com foco em **posicionamento de marca, padronização visual e reconhecimento institucional**.
 
-**Principais atividades:**
+**Funcionalidades desenvolvidas:**
 - Criação da **logomarca** da empresa
 - Definição da **paleta de cores institucional**
 - Padronização visual para uso em diferentes mídias
