@@ -2,7 +2,7 @@
 
 💻 **Analista e Desenvolvedor de Sistemas Web**  
 📍 Brasil  
-🚀 +5 anos de experiência em desenvolvimento de soluções corporativas e otimização de processos
+🚀 +6 anos de experiência em desenvolvimento de soluções corporativas e otimização de processos
 
 Sou desenvolvedor com forte atuação em **sistemas web empresariais**, focado em **automação, eficiência operacional e tomada de decisão baseada em dados**. Tenho experiência em projetos que geraram redução de custos, ganho de produtividade e maior controle gerencial.
 
