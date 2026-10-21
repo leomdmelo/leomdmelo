@@ -40,9 +40,8 @@ Sou desenvolvedor com forte atuação em **sistemas web empresariais**, focado e
 
 ## 💼 Experiência Profissional
 
-### 🏢 sistema de gestão erp Kaprinter
 **Kaprinter**  
-📍 Mogi das Cruzes/SP | 🗓️ 2020 – Atualmente  
+📍 Mogi das Cruzes/SP | 🗓️ 2020 – 2026
 
 Atuação no desenvolvimento, manutenção e evolução de **sistemas corporativos** voltados para **outsourcing de impressão**, com foco em **automação de processos, eficiência operacional e redução de custos**.
 
@@ -66,6 +65,9 @@ Atuação no desenvolvimento, manutenção e evolução de **sistemas corporativ
 - Controle de estoque com **100% de rastreabilidade**
 
 **Tecnologias:** HTML5, CSS3, Bootstrap, JavaScript, PHP, MySQL (MySQLi), JSON, Python, .NET
+
+**Grupo MGITECH**  
+📍 Mogi das Cruzes/SP | 🗓️ 2026 – Atualmente  
 
 ---
 
